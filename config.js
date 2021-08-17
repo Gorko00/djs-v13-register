@@ -8,7 +8,7 @@ module.exports = {
     guildID: "",
 
 
-    RegisterHammer: [""],
+    RegisterHammer: ["872159218059325440"],
 
     manRoles: ["", ""],
     womanRoles: ["", ""],
